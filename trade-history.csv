@@ -1,0 +1,2 @@
+"id","operation","baseCurrency","baseCurrencyAmount","createdAt","quoteCurrency","quoteCurrencyAmount","feeAmount","extraFeeAmount","status"
+"504ad3a6-6ba2-465f-bbb3-58e6f3ff3aad","sell","btc",0.015,"2023-12-04T06:33:08.853Z","pln",,,,"pending"
